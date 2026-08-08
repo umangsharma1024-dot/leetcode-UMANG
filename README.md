@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0283-move-zeroes) |
@@ -16,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0414-third-maximum-number) |
 ## Hash Table
@@ -39,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
