@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0075-sort-colors) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0189-rotate-array) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0229-majority-element-ii) |
