@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0796-rotate-string) |
+| [1903-largest-odd-number-in-string](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
