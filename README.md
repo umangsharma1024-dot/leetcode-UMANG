@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0560-subarray-sum-equals-k) |
+| [0918-maximum-sum-circular-subarray](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0918-maximum-sum-circular-subarray) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0169-majority-element) |
+| [0918-maximum-sum-circular-subarray](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0918-maximum-sum-circular-subarray](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0918-maximum-sum-circular-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -77,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/2149-rearrange-array-elements-by-sign) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
