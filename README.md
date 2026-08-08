@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/umangsharma1024-dot/leetcode-UMANG/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
